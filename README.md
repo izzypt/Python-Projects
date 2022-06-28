@@ -12,4 +12,5 @@ A compilation of different types of Python projects :
     Another game using python and OOP.
     
   ## Mail Merge Start
-    Exercise for path, files and dealing with files on Python. Use a template letter and create an invite for each invited person.
+    Exercise for path, files and dealing with files on Python. 
+    Use a template letter and create an invite for each invited person.

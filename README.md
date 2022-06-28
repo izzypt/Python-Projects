@@ -10,3 +10,6 @@ A compilation of different types of Python projects :
     
   ## Turtle Cross 
     Another game using python and OOP.
+    
+  ## Mail Merge Start
+    Exercise for path, files and dealing with files on Python.

@@ -14,3 +14,7 @@ A compilation of different types of Python projects :
   ## Mail Merge Start
     Exercise for path, files and dealing with files on Python. 
     Use a template letter and create an invite for each invited person.
+    
+  ## US States Quizz
+    Guess and locate all right the states of the United of States of America.
+    Python and turtle/tkinter.
